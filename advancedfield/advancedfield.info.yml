@@ -1,0 +1,5 @@
+name: Advanced Field
+type: module
+description: "Advanced Field: Fourth custom field example with a custom compound field based in three value fields a one more processing"
+package: "CCFE: Custom Compound Fields Experimentation"
+core: 8.x

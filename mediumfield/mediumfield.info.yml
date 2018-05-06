@@ -1,0 +1,5 @@
+name: Medium Field
+type: module
+description: "Medium Field: Third custom field example with a custom compound field processing Address"
+package: "CCFE: Custom Compound Fields Experimentation"
+core: 8.x

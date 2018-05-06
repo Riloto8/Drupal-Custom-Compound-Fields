@@ -1,0 +1,5 @@
+name: Basic Field
+type: module
+description: "Basic Field: Second custom field example with a basic Item Field"
+package: "CCFE: Custom Compound Fields Experimentation"
+core: 8.x
