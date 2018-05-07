@@ -1,0 +1,5 @@
+name: Custom Compound Field
+type: module
+description: "Custom Compound Field: Fifth custom field example testing real case"
+package: "CCFE: Custom Compound Fields Experimentation"
+core: 8.x
