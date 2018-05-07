@@ -58,11 +58,11 @@ class ObjetivoField extends FieldItemBase {
 
     $columns['resultado'] = [
       'type' => 'char',
-      'size' => 'small',
+      'length' => 255 ,
     ];
     $columns['indicador'] = [
       'type' => 'char',
-      'size' => 'small',
+      'length' => 255,
     ];
     return [
       'columns' => $columns,
