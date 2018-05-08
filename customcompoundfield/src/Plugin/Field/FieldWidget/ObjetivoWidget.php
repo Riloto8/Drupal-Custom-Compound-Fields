@@ -66,6 +66,14 @@ public function formElement(
     ];
 
 
+    // Organiza visualmente todas las instancias del campo mediante
+    // alineación horizontal de los elementos del nuevo campo.
+     $element += array(
+        '#type' => 'fieldset',
+        '#attributes' => array('class' => array('container-inline')),
+      );
+
+
     return $element;
   }
 }
